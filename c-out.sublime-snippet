@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<c:out value="\$\{${1:value}\}"/>
+]]></content>
+	<tabTrigger>cout</tabTrigger>
+	<scope>text.html.jsp</scope>
+</snippet>

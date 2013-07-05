@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<fmt:message key="${1}"/>
+]]></content>
+	<tabTrigger>fmsg</tabTrigger>
+	<scope>text.html.jsp</scope>
+	<description>fmt:message</description>
+</snippet>

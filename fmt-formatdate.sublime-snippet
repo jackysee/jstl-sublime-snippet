@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<fmt:formatDate value="${1:value}" pattern="${2:pattern}"/>
+]]></content>
+	<tabTrigger>fdate</tabTrigger>
+	<scope>text.html.jsp</scope>
+	<description>JSP/JSTL fmt:formatDate</description>
+</snippet>

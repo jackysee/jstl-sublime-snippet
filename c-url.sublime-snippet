@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<c:url value="${1:path}"/>
+]]></content>
+	<tabTrigger>curl</tabTrigger>
+	<scope>text.html.jsp</scope>
+	<description>JSP/JSTL c:url</description>
+</snippet>
